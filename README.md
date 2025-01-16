@@ -51,14 +51,15 @@ Ensure you have the following installed on your machine:
 
 
 ##Project Structure
- `````
+ 
      currency-converter/
      ├── index.html          # Main HTML file
      ├── styles.css          # CSS file for styling
      ├── script.js           # JavaScript file for functionality
      ├── README.md           # Project documentation
 
-##Screenshots
+
+<h1>Screenshots<h1/>
 ##Home Page
 
 ##Conversion Result
