@@ -59,7 +59,7 @@ Ensure you have the following installed on your machine:
      ├── README.md           # Project documentation
 
 
-<h1>Screenshots<h1/>
-##Home Page
+# Screenshotsb
+# Home Page
 
-##Conversion Result
+# Conversion Result
